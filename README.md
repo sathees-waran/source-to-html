@@ -59,11 +59,6 @@ To specify an output filename:
 ./s2html sample.c output.html
 ```
 
-On Windows, run the compiled executable from Command Prompt or PowerShell, for example:
-
-```powershell
-s2html.exe sample.c output.html
-```
 
 ## Syntax Highlighting
 
@@ -127,5 +122,4 @@ This project is a basic source-to-HTML converter for learning and demonstration.
 **Satheeswaran M**
 
 - **Email:** [satheeswaran.vnr@gmail.com](mailto:satheeswaran.vnr@gmail.com)
-- **GitHub:** [sathees-waran](https://github.com/sathees-waran)
 - **LinkedIn:** [sathees-waran](https://www.linkedin.com/in/sathees-waran/)
